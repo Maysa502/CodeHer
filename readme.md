@@ -1,6 +1,6 @@
 # Codeher: Descobrindo Oportunidades & Transformando Vidas
 
-![Codeher Banner](https://github.com/Maysa502/codeher/tree/main/img/MDBanner.png)
+![Codeher Banner](https://github.com/Maysa502/CodeHer/tree/main/img/MDBanner.png)
 
 ## Descrição
 Codeher é um site que oferece oportunidades de trabalho voluntário em tecnologia exclusivamente para mulheres, com o objetivo de fomentar a participação feminina no setor de tecnologia e criar um ambiente mais inclusivo e diversificado.
