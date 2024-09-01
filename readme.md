@@ -42,7 +42,7 @@ Codeher é mais do que um site; é uma comunidade onde as mulheres encontram opo
 - [Maysa Arruda](https://github.com/Maysa502)
 
 ## Parceiros
-- [TechHer](https://github.com/agessicamilla/techher)
+- [TechHer](https://github.com/gessicamilla/techher)
 
 ---
 
